@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'USAF Separation Guide',
-  domain: 'usaf-transition-checklist.vercel.app',
+  domain: 'separation-checklist.vercel.app',
   author: 'Craig Black',
 
   // open graph metadata (optional)
