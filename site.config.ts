@@ -10,14 +10,14 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'USAF Separation Guide',
-  domain: 'nextjs-notion-starter-kit-gxz2.vercel.app',
+  domain: 'usaf-transition-checklist.vercel.app',
   author: 'Craig Black',
 
   // open graph metadata (optional)
   description: 'The unofficial timeline and checklist for transitioning out of the Air Force.',
 
   // social usernames (optional)
-  twitter: '',
+  twitter: 'null',
   github: 'Blackoutkidd',
   linkedin: 'craigbblack',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
